@@ -1,3 +1,3 @@
 <?php
-	echo "Update changes";
+	echo "<img src=\"/winter.jpg\"/>";
 ?>
